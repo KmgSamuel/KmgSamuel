@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamangu Samuel Maeti
 - 👀 I’m interested in Data Science & Web3 Development 
-- 🌱 I’m currently learning Solidity & Hyperledger 
+- 🌱 I’m currently learning CCUDA & RUST. 
 - 💞️ I’m looking to collaborate on any DATASCIENCE and Web3 Development projects 
 - 📫 How to reach me ...Email:Kamangusamuel152@gmail.com, 
 <!---
